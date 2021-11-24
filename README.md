@@ -6,14 +6,6 @@
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/NhzTeoGeIY.gif' title='Whac-A-Mole Bot Walkthrough' width='' alt='Whac-A-Mole Bot Walkthrough' />
-
-GIF created with [Recordit](http://www.recordit.co).
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
