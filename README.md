@@ -1,6 +1,6 @@
 # Whac-A-Mole Bot
 
-*Whac-A-Mole Bot* utilizes the libraries OpenCV, NumPy, MSS, and PyAutoGUI to play the classic game "Whac-A-Mole".
+*Whac-A-Mole Bot* utilizes the libraries OpenCV, NumPy, MSS, and PyAutoGUI to play the classic game ["Whac-A-Mole"](https://www.classicgame.com/game/Whack+a+Mole).
 
 ## Contributing
 
