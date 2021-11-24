@@ -10,7 +10,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/LNDKxZCvEo.gif' title='Whac-A-Mole Bot Walkthrough' width='' alt='Whac-A-Mole Bot Walkthrough' />
+<img src='http://g.recordit.co/NhzTeoGeIY.gif' title='Whac-A-Mole Bot Walkthrough' width='' alt='Whac-A-Mole Bot Walkthrough' />
 
 GIF created with [Recordit](http://www.recordit.co).
 
